@@ -16,7 +16,7 @@ from aiogram.types import (
 # =====================================================================
 # КОНФИГУРАЦИЯ
 # =====================================================================
-BOT_TOKEN = "8661354702:AAGKX1mPbjDPeTOAb3orPP1RctKlzg_EAbg"
+BOT_TOKEN = ""
 ADMIN_CHAT_ID = 7237274092  # Ваш числовой Telegram ID
 PERSONAL_ACCOUNT_LINK = "https://t.me/MiSsNur01"  # Ссылка для покупки
 
