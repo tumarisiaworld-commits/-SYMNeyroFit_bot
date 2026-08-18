@@ -1,0 +1,7 @@
+Plaintext
+aiogram
+photo1.jpg
+photo2.jpg
+photo3.jpg
+photo4.jpg
+video1.mp4
